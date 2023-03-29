@@ -1,6 +1,6 @@
 # BusPatrol
 
-Pull project down and run an $NPM Install
+Pull project down and run an $npm install
 
 Run the project with $npx codeceptjs run --steps
 
